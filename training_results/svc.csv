@@ -1,0 +1,9 @@
+C,gamma,probablity,f1_train,accuracy_train,f1_test,accuracy_test
+0.2,auto,True,0.704,0.435,0.852,0.46
+0.2,scale,True,0.704,0.435,0.852,0.46
+0.4,auto,True,0.852,0.791,0.852,0.613
+0.4,scale,True,0.852,0.791,0.852,0.613
+0.6,auto,True,0.894,0.862,0.852,0.658
+0.6,scale,True,0.894,0.862,0.852,0.658
+0.8,auto,True,0.93,0.912,0.852,0.658
+0.8,scale,True,0.93,0.912,0.852,0.658
